@@ -65,9 +65,8 @@ Se quiser, posso te ajudar a escolher o que pinna melhor.
 ---
 
 ## 🤝 Contato
-- 💬 Discord: **seu_discord**  
-- 📫 Email: **seu_email**  
-- 🌐 Portfolio/Blog: **seu_link**
+- 💬 Discord: **mtxucro**  
+- 📫 Telegram: **Mtxucr0**  
 
 ---
 
