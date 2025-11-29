@@ -46,16 +46,6 @@ Se quiser, posso te ajudar a escolher o que pinna melhor.
 
 ---
 
-## 📈 Estatísticas
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtxucro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtxucro&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Estudando agora
 - Técnicas de RE e análise de binários
 - Estruturas de memória e padrões de acesso
